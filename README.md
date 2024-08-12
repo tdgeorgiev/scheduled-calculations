@@ -1,3 +1,11 @@
-# Source code of the Spring Boot application
-# SQL scripts for the database
-# Front-end source code
+-> Connect to the DB with your credentials
+
+-> Run the schema.sql to create the tables
+
+-> gradle bootRun 
+
+-> npm run serve
+
+-> the App will run at: http://localhost:8081/
+
+
