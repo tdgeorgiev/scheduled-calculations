@@ -1,1 +1,1 @@
-# scheduled-calculations
+# Source code of the Spring Boot application
