@@ -1,0 +1,19 @@
+/* Custom Button Styles */
+.custom-button {
+    background-color: #87CEEB;
+    border: none;
+    border-radius: 12px;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #7ec8e3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-button:focus {
+    outline: none;
+}
